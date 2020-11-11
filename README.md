@@ -2,8 +2,8 @@
 
 This module will work only with PHP 7.4 or higher
 
-https://www.php.net/manual/en/opcache.preloading.php
-https://wiki.php.net/rfc/preload
+- https://www.php.net/manual/en/opcache.preloading.php
+- https://wiki.php.net/rfc/preload
 
 # **Install**
 
