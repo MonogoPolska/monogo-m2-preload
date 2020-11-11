@@ -1,0 +1,14 @@
+.idea/
+DS_Store
+.swp
+.lock
+__MACOSX
+vendor
+composer.lock
+.DS_Store
+auth.json
+.php_cs.cache
+.php_cs.dist
+grumphp.yml
+sonar-scanner.sh
+.scannerwork

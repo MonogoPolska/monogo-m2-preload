@@ -1,0 +1,24 @@
+{
+    "name": "monogo/magento-preload",
+    "description": "Magento 2 OPcache preload",
+    "require": {
+        "php": "~7.4.0"
+    },
+    "type": "magento2-module",
+    "version": "1.0.1",
+    "license": "MIT",
+    "keywords": ["Magento 2", "opcache", "preload"],
+    "authors": [
+        {
+            "name": "Monogo Sp z o.o.",
+            "email": "pawel.detka@monogo.pl"
+        }
+    ],
+    "extra": {
+        "map": [
+            [
+                "preload.php",
+                "preload.php"
+            ],
+    }
+}
