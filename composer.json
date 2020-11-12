@@ -4,7 +4,7 @@
     "require": {
         "php": "~7.4.0"
     },
-    "type": "magento2-module",
+    "type": "magento2-component",
     "version": "1.0.1",
     "license": "MIT",
     "keywords": ["Magento 2", "opcache", "preload"],
