@@ -53,8 +53,8 @@ preload(
         __DIR__ . '/vendor/composer/autoload_namespaces.php',
         __DIR__ . '/vendor/composer/autoload_files.php',
         __DIR__ . '/vendor/composer/autoload_classmap.php',
-        __DIR__ . '/epp/etc/config.php',
-        __DIR__ . '/epp/etc/env.php',
+        __DIR__ . '/app/etc/config.php',
+        __DIR__ . '/app/etc/env.php',
         __DIR__ . '/vendor/autoload.php',
     ],
     []
