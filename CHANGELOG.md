@@ -1,5 +1,9 @@
 # CHANGELOG
 
+<a name="1.0.3"></a>
+## 1.0.2 - 2020-12-23
+- Fix typo
+
 <a name="1.0.2"></a>
 ## 1.0.2 - 2020-11-26
 Thank you kierenevans ! 

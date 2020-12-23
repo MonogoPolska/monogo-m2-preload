@@ -5,7 +5,7 @@
         "php": "~7.4.0"
     },
     "type": "magento2-component",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "license": "MIT",
     "keywords": ["Magento 2", "opcache", "preload"],
     "authors": [

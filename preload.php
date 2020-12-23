@@ -47,7 +47,7 @@ preload(
     [
         __DIR__ . '/generated/metadata',
         __DIR__ . '/vendor/composer/include_paths.php',
-        __DIR__ . '/vendor/composer/autoload_staticd.php',
+        __DIR__ . '/vendor/composer/autoload_static.php',
         __DIR__ . '/vendor/composer/autoload_real.php',
         __DIR__ . '/vendor/composer/autoload_psr4.php',
         __DIR__ . '/vendor/composer/autoload_namespaces.php',
