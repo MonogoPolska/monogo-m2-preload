@@ -2,7 +2,7 @@
     "name": "monogo/magento-preload",
     "description": "Magento 2 OPcache preload",
     "require": {
-        "php": "~7.4.0"
+        "php": ">=7.4.0"
     },
     "type": "magento2-component",
     "version": "1.0.3",
